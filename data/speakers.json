@@ -41,8 +41,8 @@
     "featured": true,
     "name": "Éric Zilé Kouassi",
     "title": "Ingénieur études et développement",
-    "company": "Shipito",
-    "country": "Côte d'Ivoirec",
+    "company": "Sydeem girafe",
+    "country": "Côte d'Ivoire",
     "photoUrl": "../../images/people/eric_zile.jpg",
     "bio": "Jakub is a member of GDG Prague and GDG ČVUT in Czech republic. He organised together with Jana Moudrá several Polymer and Dart code labs and a hackaton. He works as a frontend engineer for Shipito. Jakub is interested in modern Javascript frameworks, libraries and tools and loves clean code.",
     "tags": ["Web", "Polymer"],
@@ -99,98 +99,55 @@
 }, {
     "id": 11,
     "featured": false,
-    "name": "Hallade Xavier",
-    "title": "Developer Evangelist",
-    "company": "Intel",
-    "country": "France",
-    "photoUrl": "../../images/people/hallade_xavier.jpg",
-    "bio": "Xavier Hallade is a software engineer at Intel Software and Services Group in Paris, France, where he works on a wide range of Android frameworks, libraries and applications, helping developers to improve their support for new hardware and technologies. He's a Google Developer Expert in Android, with a focus on the Android NDK and Android TV.",
-    "tags": ["Android", "NDK"],
-    "badges": [{
-        "name": "GDE",
-        "description": "Android Google Developer Expert",
-        "link": "https://developers.google.com/experts/people/xavier-hallade"
-    }],
+    "name": "Montrésor Kouassi",
+    "title": "Co-fondateur de StarTIC",
+    "company": "Ovillage",
+    "country": "Côte d'Ivoire",
+    "photoUrl": "../../images/people/mon_treso.jpg",
+    "bio": "Co-fondateur de StarTIC | Ingénierie des Systèmes d'Information et Conduite de Projets Informatiques | Passionnés des TIC | Logiciels libres | Ubuntu | Jerry",
+    "tags": ["Entrepreneuriat"], 
     "socials": [{
-        "name": "Google+",
-        "icon": "app-icons:gplus",
-        "link": "https://plus.google.com/106834066322753191683/posts"
-    }, {
-        "name": "LinkedIn",
-        "icon": "app-icons:linkedin",
-        "link": "https://www.linkedin.com/in/xavierhallade"
-    }, {
         "name": "Twitter",
         "icon": "app-icons:twitter",
-        "link": "https://twitter.com/ph0b"
-    }, {
-        "name": "Website",
-        "icon": "link",
-        "link": "http://ph0b.com/"
+        "link": "https://twitter.com/montresorkonan"
     }]
 }, {
     "id": 1,
     "featured": false,
-    "name": "Said Tahsin Dane",
+    "name": "Konan Raphael N'GUESSAN",
     "title": "Mobile Coder",
-    "company": "Startup Digest",
-    "country": "Turkey",
-    "photoUrl": "../../images/people/said_tahsine_dane.jpg",
-    "bio": "GDE (Google Developer Expert) for Android. Experience with Android (since Cupcake), Google Glass, Android Wear, and (even on!) iOS. Very passionate developer who tries to live on the bleeding edge of technology. Also very interested in mobile UX. <br/><br/>Active member and organizer at GDG Istanbul enjoying organizing various conferences and hackathons. Also a part of GDG[X] - a GDG related open-source organization.",
-    "tags": ["Android", "Material Design"],
+    "company": "",
+    "country": "Côte d'Ivoire",
+    "photoUrl": "../../images/people/raph_konan.jpeg",
+    "bio": "",
+    "tags": ["IoT", "Mobile","robotique"],
     "badges": [{
-        "name": "GDE",
-        "description": "Android Google Developer Expert",
-        "link": "https://developers.google.com/experts/people/said-tahsin-dane"
-    }, {
         "name": "GDG",
-        "description": "Google Developers Group Istanbul",
-        "link": "https://developers.google.com/groups/chapter/100514812580249787371/"
+        "description": "Google Developers Group INPHB"
     }],
     "socials": [{
-        "name": "Website",
-        "icon": "link",
-        "link": "http://www.tasomaniac.com/"
-    }, {
         "name": "Twitter",
         "icon": "app-icons:twitter",
-        "link": "https://twitter.com/tasomaniac"
-    }, {
-        "name": "GitHub",
-        "icon": "app-icons:github",
-        "link": "https://github.com/tasomaniac"
+        "link": "https://twitter.com/raphaelkonan40"
     }]
 }, {
     "id": 2,
     "featured": false,
-    "name": "Mateusz Herych",
-    "title": "Software Engineer",
-    "company": "Base CRM",
-    "country": "Poland",
-    "photoUrl": "../../images/people/mateus_herych.jpg",
-    "bio": "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive.",
-    "tags": ["Android", "Android M", "Backup"],
-    "badges": [{
-        "name": "GDE",
-        "description": "Android Google Developer Expert",
-        "link": "https://developers.google.com/experts/people/mateusz-herych"
-    }, {
+    "name": "Soungalo Cyrille KAWELE",
+    "title": "",
+    "company": "",
+    "country": "Côte d'Ivoire",
+    "photoUrl": "../../images/people/kwale.jpeg",
+    "bio": "",
+    "tags": ["IoT", "Mobile","robotique"],
+    "badges": [ {
         "name": "GDG",
-        "description": "Google Developers Group Krakow",
-        "link": "https://developers.google.com/groups/chapter/107562802227561437057/"
+        "description": "Google Developers Group INPHB"
     }],
-    "socials": [{
-        "name": "Google+",
-        "icon": "app-icons:gplus",
-        "link": "https://plus.google.com/+MateuszHerych"
-    }, {
+    "socials": [ {
         "name": "Twitter",
         "icon": "app-icons:twitter",
-        "link": "https://twitter.com/mherych"
-    }, {
-        "name": "LinkedIn",
-        "icon": "app-icons:linkedin",
-        "link": "https://www.linkedin.com/in/herych"
+        "link": "https://twitter.com/escakase"
     }]
 }, {
     "id": 19,
@@ -677,11 +634,11 @@
     }]
 }, {
     "id": 28,
-    "name": "Constantine Mars",
+    "name": "Ange Bagui",
     "title": "Senior Android Developer",
-    "company": "DataArt",
-    "country": "Ukraine",
-    "photoUrl": "../../images/people/constantine_mars.png",
+    "company": "",
+    "country": "Côte d'Ivoire",
+    "photoUrl": "../../images/people/ange_bagui.jpg",
     "bio": "Constantine is a Senior Mobile Developer at DataArt, GDG Dnipropetrovs'k Organizer and Java User Group Dnipro Organizer. <br/><br/>He is developing apps for both Android and iOS platfroms, but prefer to talk about Android innovations and Java language features. The last areas of his interest are Reactive Functional Programming, Ubiquitous Computing (especially AndroidWear) and GoogleFit.",
     "badges": [{
         "name": "GDG",
