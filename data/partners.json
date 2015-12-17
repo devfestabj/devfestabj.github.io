@@ -18,14 +18,18 @@
         "logoUrl": "../images/partners/gdg_miage.jpg"
     }]
 }, {
-    "title": "Partenaires communication",
+    "title": "Communautés Partenaires",
     "logos": [{
         "name": "Ovillage",
         "url": "http://ovillage.ci/",
         "logoUrl": "../images/partners/ovillage.png"
     },{
-        "name": "Ovillage",
+        "name": "Akendewa",
         "url": "http://akendewa.org/",
         "logoUrl": "../images/partners/akendewa.jpeg"
+    },{
+        "name": "Ayiyikoh",
+        "url": "",
+        "logoUrl": "../images/partners/ayiyikoh.jpg"
     }]
 }]
