@@ -325,7 +325,7 @@
     "id": 125,
     "title": "[Keynote] Quoi de neuf chez Google?",
     "description": "Découvrez les nouveautés de Google avec nos trois seakers présents au dernier I/O",
-    "speakers": [23,15],
+    "speakers": [23,15,29],
     "language": "fr",
     "complexity": "Beginner",
     "presentation": "",
@@ -417,16 +417,16 @@
   },
   {
     "id": 134,
-    "title": "Data Binding. Next big thing?",
-    "description": "What Android Data Binding is? How it will change Android development? And the main question - will it be the next big thing or just yet another framework? Lets try to find out answers to all these questions and take a closer look to Data Binding.",
+    "title": "Virtual reality with your cardboard",
+    "description": "Montrer la réalité virtuelle sous un autre angle et faire ressortir son accessibilité à tous.",
     "speakers": [29],
-    "language": "uk",
-    "complexity": "Intermediate",
+    "language": "FR",
+    "complexity": "Beginner",
     "presentation": "",
     "video": "",
     "tags": [
         "Android",
-        "Marshmallow"
+        "Marshmallow","Cardboard"
     ]
   },
   {

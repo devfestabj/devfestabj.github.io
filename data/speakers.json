@@ -22,6 +22,10 @@
     "country": "Côte d'Ivoire",
     "photoUrl": "../../images/people/marie_colombe.jpg",
     "bio": "",
+    "badges": [{
+        "name": "Women Techmakers",
+        "description": "Women Techmakers powered by Google Developers Group MIAGE GI"
+    }],
     "tags": ["mobile", "IoT"] 
 }, {
     "id": 15,
@@ -149,7 +153,7 @@
     "id": 18,
     "name": "Dioulo Etser Emmanuel KANGO",
     "title": "Google Student Ambassador",
-    "company": "GSA",
+    "company": "",
     "country": "Côte d'Ivoire",
     "photoUrl": "../../images/people/kano.jpeg",
     "bio": "",
@@ -172,4 +176,18 @@
         "description": "Google Developers Group MIAGE GI"
     }],
     "tags": ["Android", "RxJava"]
+}, {
+    "id": 29,
+    "featured": false,
+    "name": "Audrey Ehouman",
+    "title": "",
+    "company": "JCertif international,Akendewa",
+    "country": "Côte d'Ivoire",
+    "photoUrl": "../../images/people/audrey_ehoum.jpg",
+    "bio": "",
+    "badges": [{
+        "name": "Women Techmakers",
+        "description": "Women Techmakers powered by Google Developers Group MIAGE GI"
+    }],
+    "tags": ["virtuak reality", "Android"]
 }]
