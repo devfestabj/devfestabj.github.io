@@ -431,16 +431,16 @@
   },
   {
     "id": 135,
-    "title": "The Cloud Convergence: OpenStack and Kubernetes",
-    "description": "The new cloud era brings us a lot of different technologies and products that can make process of development easier. <br/><br/>On the one hand we have OpenStack - an Open Source product that provides you a possibility to deploy your own cloud. On the other hand - Google, with its extensive experience operating a cloud using container technology, developed the open source Kubernetes orchestration system to manage containerized applications in a clustered environment.<br/><br/>This presentation will show you how to manage Containers easily using Kubernetes system on the OpenStack cloud environment.",
+    "title": "Functional Programming in Scala.",
+    "description": "",
     "speakers": [30],
     "language": "FR",
-    "complexity": "Beginner",
+    "complexity": "Intermediate",
     "presentation": "",
     "video": "",
     "tags": [
-        "Cloud",
-        "Kubernetes"
+        "scala",
+        "functional programing"
     ]
   },
   {

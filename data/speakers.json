@@ -190,4 +190,18 @@
         "description": "Women Techmakers powered by Google Developers Group MIAGE GI"
     }],
     "tags": ["virtual reality", "Android", "CardBoard"]
+}, {
+    "id": 30,
+    "featured": true,
+    "name": "Philippe Kouao",
+    "title": "",
+    "company": "Py Tehnologies",
+    "country": "Côte d'Ivoire",
+    "photoUrl": "../../images/people/kouao.jpg",
+    "bio": "",
+    "badges": [{
+        "name": "Expert java",
+        "description": ""
+    }],
+    "tags": ["java", "scala", "functional programming"]
 }]

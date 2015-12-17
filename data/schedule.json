@@ -4,9 +4,9 @@
     "tracks": [{
         "title": "Grande salle"
     }, {
-        "title": "salle de workshop"
+        "title": "salle 1, workshop"
     }, {
-        "title": "Community hall"
+        "title": "salle 2, workshop"
     }],
     "timeslots": [{
         "startTime": "08:30",
@@ -85,7 +85,8 @@
         "endTime": "15:30",
         "sessions": [
             [113], 
-            [124]
+            [124],
+	    [135]
         ]
     } , {
         "startTime": "15:45",
