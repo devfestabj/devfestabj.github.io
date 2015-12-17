@@ -171,21 +171,6 @@
     ]
   },
   {
-    "id": 110,
-    "title": "Google Cloud Platform End to End: How we built 'Cloud Spin'",
-    "description": "The Cloud is useful for a lot of cool things, well how about taking 19 smartphones and wiring them together in order to take 3D pictures of people doing crazy stuff at events? Guess what? that's exactly what we did! Our only limitation was that being Google we had to use Google Cloud Platform and it turns out that that's not much of a limitation at all. <br/><br/>This talk looks at how we built the backend and analyzes the design choices that we made when it comes to endpoints, messaging, storage, scalability, Docker, Firebase and process pipelines. Best of all it answers the question: How do you wire up 19 smartphones to the Cloud and use them to create 3D pictures?",
-    "speakers": [9],
-    "language": "FR",
-    "complexity": "Beginner",
-    "presentation": "https://speakerdeck.com/gdglviv/mandy-waite-cloud-platform-end-to-end-how-we-built-cloud-spin",
-    "video": "",
-    "tags": [
-        "Cloud",
-        "Docker",
-        "Firebase"
-    ]
-  },
-  {
     "id": 111,
     "title": "New security model in Marshmallow",
     "description": "Permissions on Android have always been an important area to consider when developing applications. Currently, users have awareness of these permissions, but no real control over them.<br/><br/>Android M comes with several breaking changes, related to Permissions. <br/><br/>In this presentation we will learn on how the new permission model introduced in Android M works, and how can we educate our users, so they can understand why are we asking for certain permission. ",
@@ -296,48 +281,6 @@
     ]
   },
   {
-    "id": 119,
-    "title": "Android TV Development",
-    "description": "We will discuss how to start programming for Android TV, what is “10 foot UI” and some hardware features  that Android TV developers should bear in mind.We will found out about the competitors and what is the current state of the market.",
-    "speakers": [18],
-    "language": "ru",
-    "complexity": "Intermediate",
-    "presentation": "https://speakerdeck.com/gdglviv/alexey-rybakov-android-tv-development",
-    "video": "",
-    "tags": [
-        "Android",
-        "Android TV"
-    ]
-  },
-  {
-    "id": 120,
-    "title": "Firebase Adventures - Real time platform for your apps",
-    "description": "Firebase is a powerful platform for building mobile and web applications. Use Firebase to store and sync data instantly, authenticate users, and easily deploy your web app. <br/><br/>Firebase Adventures is a talk about how to use Firebase in different ways to give you the ability to build extraordinary cross-platform apps.",
-    "speakers": [19],
-    "language": "FR",
-    "complexity": "Intermediate",
-    "presentation": "",
-    "video": "",
-    "tags": [
-        "Cloud",
-        "Firebase"
-    ]
-  },
-  {
-    "id": 121,
-    "title": "[Workshop] Getting started with Firebase",
-    "description": "In this workshop you will learn how to use Firebase to empower your web applications using all features provided by Firebase like realtime database, authentication, hosting and much more.",
-    "speakers": [19],
-    "language": "FR",
-    "complexity": "Intermediate",
-    "presentation": "",
-    "video": "",
-    "tags": [
-        "Cloud",
-        "Firebase"
-    ]
-  },
-  {
     "id": 122,
     "title": "Service Worker - Native Apps Experience For The Web",
     "description": "Installing and updating apps, network interceptors and full cache management, push notifications and background updates. All these is now possible in Web apps with Service Worker! Even when the App is closed. Excited? Be the one to touch it first!",
@@ -444,35 +387,7 @@
         "Community",
         "Play Store"
     ]
-  },
-  {
-    "id": 130,
-    "title": "[Workshop] Let's build a new Polymer application",
-    "description": "Polymer is a great tool for prototyping new applications. In this workshop, you will see, how to build nice looking front-end application using Polymer Starter Kit and predefined set of elements and components. We're going to use backend API from Dart code lab. Feel free to visit both workshops, but you can also attend Dart or Polymer workshops individually. Note: please don't forget to bring your laptop and download Polymer Starter Kit https://developers.google.com/web/tools/polymer-starter-kit/",
-    "speakers": [15],
-    "language": "FR",
-    "complexity": "Beginner",
-    "presentation": "",
-    "video": "",
-    "tags": [
-        "Web",
-        "Polymer"
-    ]
-  },
-  {
-    "id": 131,
-    "title": "[Workshop] Your first server-side application in Dart",
-    "description": "In this session you will explore how to write your first Dart server-side application which will be later used during the Polymer workshop. Come to this workshop to try and learn Dart, have fun and see how you can write awesome applications with it. Note: please don't forget to bring your laptop with downloaded Dart and some editor/IDE with Dart support. More info: https://www.dartlang.org/downloads/.",
-    "speakers": [14],
-    "language": "FR",
-    "complexity": "Beginner",
-    "presentation": "",
-    "video": "",
-    "tags": [
-        "Web",
-        "Dart"
-    ]
-  },
+  } ,
   {
     "id": 132,
     "title": "Women cracking the code",
