@@ -35,5 +35,9 @@
         "name": "Symbiose Group",
         "url": "",
         "logoUrl": "../images/partners/awebsi_logo.png"
+    },{
+        "name": "Université cerco",
+        "url": "http://www.groupecerco.com/bj/",
+        "logoUrl": "../images/partners/cerco.jpg"
     }]
 }]
