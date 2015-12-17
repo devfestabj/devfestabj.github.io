@@ -7,6 +7,8 @@
         "title": "salle 1, workshop"
     }, {
         "title": "salle 2, workshop"
+    }, {
+        "title": "salle 3, workshop"
     }],
     "timeslots": [{
         "startTime": "08:30",
@@ -41,38 +43,38 @@
     }, {
         "startTime": "11:05",
         "endTime": "11:25",
-        "sessions": [ 
+        "sessions": [
             [112]
         ]
     }, {
         "startTime": "11:25",
         "endTime": "11:45",
-        "sessions": [ 
-            [127] 
+        "sessions": [
+            [127]
         ]
     }, {
         "startTime": "11:45",
         "endTime": "12:05",
         "sessions": [
-            [116] 
+            [116]
         ]
     }, {
         "startTime": "12:05",
         "endTime": "12:25",
-        "sessions": [  
+        "sessions": [
             [118]
         ]
     }, {
         "startTime": "12:25",
         "endTime": "12:45",
         "sessions": [
-            [115] 
+            [115]
         ]
     }, {
         "startTime": "12:45",
         "endTime": "13:15",
         "sessions": [
-            [117] 
+            [117]
         ]
     }, {
         "startTime": "13:15",
@@ -84,22 +86,22 @@
         "startTime": "14:15",
         "endTime": "14:35",
         "sessions": [
-            [134] 
+            [101]
         ]
     }, {
         "startTime": "14:40",
         "endTime": "15:40",
         "sessions": [
-            [113], 
+            [113],
             [124],
-	    [135]
+	    [135],[103]
         ]
     } , {
         "startTime": "15:45",
         "endTime": "17:15",
         "sessions": [
             [101],
-            [106], [138] 
+            [106], [138],[134]
         ]
     }, {
         "startTime": "17:15",

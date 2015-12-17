@@ -18,7 +18,7 @@
         "logoUrl": "../images/partners/gdg_miage.jpg"
     }]
 }, {
-    "title": "Communautés Partenaires",
+    "title": "Communautés et Entrprises Partenaires",
     "logos": [{
         "name": "Ovillage",
         "url": "http://ovillage.ci/",
@@ -31,5 +31,9 @@
         "name": "Ayiyikoh",
         "url": "",
         "logoUrl": "../images/partners/ayiyikoh.jpg"
+    },{
+        "name": "Symbiose Group",
+        "url": "",
+        "logoUrl": "../images/partners/awebsi_logo.png"
     }]
 }]

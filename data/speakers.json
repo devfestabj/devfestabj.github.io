@@ -26,7 +26,7 @@
         "name": "Women Techmakers",
         "description": "Women Techmakers powered by Google Developers Group MIAGE GI"
     }],
-    "tags": ["mobile", "IoT"] 
+    "tags": ["mobile", "IoT"]
 }, {
     "id": 15,
     "featured": true,
@@ -40,7 +40,7 @@
     "badges": [{
         "name": "GDG",
         "description": "Google Developers Group MIAGE GI"
-    }] 
+    }]
 }, {
     "id": 14,
     "name": "Komi Serge Innocent",
@@ -53,7 +53,7 @@
     "tags": ["Web", "Dart"],
     "badges": [ {
         "name": "GDG",
-        "description": "Google Developers Group MIAGE GI" 
+        "description": "Google Developers Group MIAGE GI"
     }]
 }, {
     "id": 11,
@@ -64,7 +64,7 @@
     "country": "Côte d'Ivoire",
     "photoUrl": "../../images/people/mon_treso.jpg",
     "bio": "Co-fondateur de StarTIC | Ingénierie des Systèmes d'Information et Conduite de Projets Informatiques | Passionnés des TIC | Logiciels libres | Ubuntu | Jerry",
-    "tags": ["Entrepreneuriat"], 
+    "tags": ["Entrepreneuriat"],
     "socials": [{
         "name": "Twitter",
         "icon": "app-icons:twitter",
@@ -205,7 +205,7 @@
     }],
     "tags": ["java", "scala", "functional programming"]
 }, {
-    "id": 31, 
+    "id": 31,
     "name": "Amara Al Moubarak Cisse ",
     "title": "",
     "company": "Ovillage",
@@ -213,4 +213,13 @@
     "photoUrl": "../../images/people/moubarak.jpg",
     "bio": "",
     "tags": ["web", "html", "frogans"]
+}, {
+    "id": 32,
+    "name": "Beugré Loulou De Gueyo",
+    "title": "",
+    "company": "Ayiyikoh",
+    "country": "Côte d'Ivoire",
+    "photoUrl": "../../images/people/beugre.jpg",
+    "bio": "",
+    "tags": ["Iot", "arduino", "robotique"]
 }]

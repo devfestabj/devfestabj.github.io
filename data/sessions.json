@@ -52,7 +52,7 @@
     "description": "Programmer un microcontrolleur pour allumer une LED ,Programmer un robot mobile avec un MICROCONTROLLEUR , Programmer un robot qui évite des obstacles et un robot danseur .",
     "speakers": [1,2],
     "language": "FR",
-    "complexity": "Beginner", 
+    "complexity": "Beginner",
     "video": "",
     "tags": [
         "IoT",
@@ -76,16 +76,16 @@
   },
   {
     "id": 103,
-    "title": "Planning Android Screens",
-    "description": "This talks is about Android UX when building new screen from scratch. We will go through some common Android screens (like Login / Sign Up / Search / etc.) and see what issues you can face, how popular apps are solving them and what are our options. At the end I will show how to plan & prototype animations with Pixate Studio.",
-    "speakers": [3],
+    "title": "Réalisation d'un compteur set segments commandé par un bouton poussoir avec Arduino",
+    "description": "",
+    "speakers": [32],
     "language": "FR",
     "complexity": "Beginner",
     "presentation": "",
     "video": "",
     "tags": [
-        "Android",
-        "UX"
+        "Arduino",
+        "IoT", "robotique"
     ]
   },
   {
@@ -163,7 +163,7 @@
     "description": "Présentation d'objets connectés qui interagissent avec le mobile grâce à la technologie BLE",
     "speakers": [9],
     "language": "FR",
-    "complexity": "Beginner", 
+    "complexity": "Beginner",
     "video": "",
     "tags": [
         "Cloud",
@@ -233,7 +233,7 @@
     "description": "Live coding sur les possibilités du framework jhipster!!!",
     "speakers": [14],
     "language": "FR",
-    "complexity": "Intermediate", 
+    "complexity": "Intermediate",
     "video": "",
     "tags": [
         "Web",
@@ -247,7 +247,7 @@
     "description": "présentation du framework de développement universel polymer",
     "speakers": [15],
     "language": "FR",
-    "complexity": "Intermediate", 
+    "complexity": "Intermediate",
     "video": "",
     "tags": [
         "Web",
@@ -315,7 +315,7 @@
     "description": "Dans cette session vous saurez comment developper une application mobile avec les technologie web utilisant le javascript. Nous verrons aussi comment a partir de ces technologie on peut avoir une meme experience utilisateur qu'avec les applications developpez de manière native",
     "speakers": [19],
     "language": "FR",
-    "complexity": "Beginner", 
+    "complexity": "Beginner",
     "video": "",
     "tags": [
         "Web",
