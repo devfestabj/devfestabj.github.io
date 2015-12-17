@@ -6,8 +6,8 @@
     "company": "Digital Inspiration",
     "country": "Togo",
     "photoUrl": "../../images/people/seti_afanou.jpg",
-    "bio": "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action.",
-    "tags": ["Entrepreneurship"],
+    "bio": "",
+    "tags": ["android","firebase"],
     "socials": [{
         "name": "Google+",
         "icon": "app-icons:gplus",
@@ -21,21 +21,8 @@
     "company": "",
     "country": "Côte d'Ivoire",
     "photoUrl": "../../images/people/marie_colombe.jpg",
-    "bio": "Based in London, UK, Mandy is a Developer Relations Engineer at Google specializing in Container and Cloud technologies and working to make the world a better place for developers building applications for the Cloud. Before Google Mandy worked at Sun Microsystems on performance and scalability of Java and JavaEE and on porting Open Source apps to OpenSolaris. In her spare time Mandy is learning Japanese and likes to play the guitar.",
-    "tags": ["Cloud", "Firebase", "gRPC", "Kubernetes", "Docker"],
-    "socials": [{
-        "name": "Google+",
-        "icon": "app-icons:gplus",
-        "link": "https://plus.google.com/+MandyWaite"
-    }, {
-        "name": "Twitter",
-        "icon": "app-icons:twitter",
-        "link": "https://twitter.com/tekgrrl"
-    }, {
-        "name": "GitHub",
-        "icon": "app-icons:github",
-        "link": "https://github.com/tekgrrl"
-    }]
+    "bio": "",
+    "tags": ["mobile", "IoT"] 
 }, {
     "id": 15,
     "featured": true,
@@ -44,22 +31,12 @@
     "company": "Sydeem girafe",
     "country": "Côte d'Ivoire",
     "photoUrl": "../../images/people/eric_zile.jpg",
-    "bio": "Jakub is a member of GDG Prague and GDG ČVUT in Czech republic. He organised together with Jana Moudrá several Polymer and Dart code labs and a hackaton. He works as a frontend engineer for Shipito. Jakub is interested in modern Javascript frameworks, libraries and tools and loves clean code.",
+    "bio": " ",
     "tags": ["Web", "Polymer"],
     "badges": [{
         "name": "GDG",
-        "description": "Google Developers Group Prague",
-        "link": "https://developers.google.com/groups/chapter/111919016509847766513/"
-    }],
-    "socials": [{
-        "name": "Google+",
-        "icon": "app-icons:gplus",
-        "link": "https://plus.google.com/u/0/+JakubSkvara"
-    }, {
-        "name": "Twitter",
-        "icon": "app-icons:twitter",
-        "link": "https://twitter.com/skvaros"
-    }]
+        "description": "Google Developers Group MIAGE GI"
+    }] 
 }, {
     "id": 14,
     "name": "Komi Serge Innocent",
@@ -68,33 +45,11 @@
     "company": "",
     "country": "Côte d'Ivoire",
     "photoUrl": "../../images/people/komi_serge.jpg",
-    "bio": "GDE (Google Developer Expert) for Dart. Jana is a passionate developer and modern web and mobile technology evangelist. She is an event organiser for GDG Prague, where she arranges events for developers including public lectures, code labs and hackathons – covering a wide range of subjects including technologies Dart or Android. She loves to help other developers and spread the knowledge about these technologies. <br/><br/>Jana co-founded a company called Juicymo, where she works on juicy apps and products.",
+    "bio": "",
     "tags": ["Web", "Dart"],
-    "badges": [{
-        "name": "GDE",
-        "description": "Dart Google Developer Expert",
-        "link": "https://developers.google.com/experts/people/jana-moudr"
-    }, {
+    "badges": [ {
         "name": "GDG",
-        "description": "Google Developers Group MIAGE GI",
-        "link": "https://developers.google.com/groups/chapter/111919016509847766513/"
-    }],
-    "socials": [{
-        "name": "Google+",
-        "icon": "app-icons:gplus",
-        "link": "https://plus.google.com/+JanaMoudrá"
-    }, {
-        "name": "LinkedIn",
-        "icon": "app-icons:linkedin",
-        "link": "https://cz.linkedin.com/in/janamoudra"
-    }, {
-        "name": "Twitter",
-        "icon": "app-icons:twitter",
-        "link": "https://twitter.com/Janamou"
-    }, {
-        "name": "Blog",
-        "icon": "link",
-        "link": "http://www.moudra.net/"
+        "description": "Google Developers Group MIAGE GI" 
     }]
 }, {
     "id": 11,
@@ -211,7 +166,7 @@
     "company": "",
     "country": "Côte d'Ivoire",
     "photoUrl": "../../images/people/ange_bagui.jpg",
-    "bio": "Constantine is a Senior Mobile Developer at DataArt, GDG Dnipropetrovs'k Organizer and Java User Group Dnipro Organizer. <br/><br/>He is developing apps for both Android and iOS platfroms, but prefer to talk about Android innovations and Java language features. The last areas of his interest are Reactive Functional Programming, Ubiquitous Computing (especially AndroidWear) and GoogleFit.",
+    "bio": "",
     "badges": [{
         "name": "GDG",
         "description": "Google Developers Group MIAGE GI"

@@ -30,10 +30,10 @@
   },
   {
     "id": 1006,
-    "title": "Afterparty & Résautage",
-    "description": "Afterpaty is a great time to have some fun and meet new people.<br/><br/><b>Location</b>: Club Arsenal Market, [Pidvalna St 5](http://club.arsenalmarket.lviv.ua/uk/contacts/)<br/><br/>Free shot for all DevFest attendees included.<br/><br/>Don't forget to bring your badge.",
+    "title": "Afterwork & Résautage",
+    "description": "",
     "track": {
-        "title": "Club Arsenal Market"
+        "title": "Quelque part..."
     }
   },
   {
@@ -61,7 +61,7 @@
   {
     "id": 102,
     "title": "Microcontroleurs : Application à la robotique",
-    "description": "",
+    "description": "Venez apprendre à Programmer un microcontrolleur pour allumer une LED ,Programmer un robot mobile avec un MICROCONTROLLEUR , Programmer un robot qui évite des obstacles et un robot danseur .",
     "speakers": [1,2],
     "language": "FR",
     "complexity": "Beginner",
@@ -244,7 +244,7 @@
   {
     "id": 115,
     "title": "Let's play JHipster!",
-    "description": "Dart is a language for the web by Google which is object oriented with optional types. You can use Dart to build great apps for the client-side, server-side and command line. <br/><br/>Come to listen to my story why I love Dart and why it makes me so much productive!",
+    "description": "Live coding sur les possibilités du framework jhipster!!!",
     "speakers": [14],
     "language": "FR",
     "complexity": "Intermediate", 
@@ -258,7 +258,7 @@
   {
     "id": 116,
     "title": "Présentation de polymer",
-    "description": "Most modern front-end JavaScript libraries provide support for component based development. Components help separate large applications into standalone building blocks with specified communication API. Let's compare Polymer elements with components from React, Angular.",
+    "description": "présentation du framework de développement universel polymer",
     "speakers": [15],
     "language": "FR",
     "complexity": "Intermediate", 
@@ -489,7 +489,7 @@
   {
     "id": 133,
     "title": "RxJava for Android",
-    "description": "Does Android Studio support Java 8 features? And Android Tools Developer Leaders say this will not be added to Studio at least nearest year. Seems it's not a problem for developers who want to write in functional style right now!<br/><br/>Today we'll talk about reactive functional programming for Android. We'll look how to change your code with RxJava to write flexible, resilient, asynchronous applications despite limitations of Java 7.<br/><br/>We'll look at examples of async and blocking observables, filtering, mapping, math operations, retrieving observables from network calls and applying schedulers for our reactive computations. And of course, some examples of live code :)",
+    "description": "Presentation de la librairie Equilibre , RxJava et Retrolambda pour developper des applications Android Reactive pendant un livecode",
     "speakers": [28],
     "language": "FR",
     "complexity": "Beginner",
