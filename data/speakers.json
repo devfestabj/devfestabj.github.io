@@ -46,7 +46,7 @@
     "name": "Komi Serge Innocent",
     "featured": true,
     "title": "Développeur java",
-    "company": "",
+    "company": "Objis CI",
     "country": "Côte d'Ivoire",
     "photoUrl": "../../images/people/komi_serge.jpg",
     "bio": "",
@@ -204,4 +204,13 @@
         "description": ""
     }],
     "tags": ["java", "scala", "functional programming"]
+}, {
+    "id": 31, 
+    "name": "Amara Al Moubarak Cisse ",
+    "title": "",
+    "company": "Ovillage",
+    "country": "Côte d'Ivoire",
+    "photoUrl": "../../images/people/moubarak.jpg",
+    "bio": "",
+    "tags": ["web", "html", "frogans"]
 }]

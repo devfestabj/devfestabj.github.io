@@ -38,9 +38,10 @@
   },
   {
     "id": 1007,
-    "title": "Conference closing and contest winners announcements",
-    "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
-    "language": "uk",
+    "title": "Grande Mess de fin : présentation des applications de domotique ",
+    "description": "En workshop, ils ont développé des programmes pour controller des équipements, ils vous en font la démo!",
+    "language": "FR",
+    "speakers": [1,2],
     "complexity": "",
     "presentation": "",
     "video": ""
@@ -349,15 +350,15 @@
   },
   {
     "id": 127,
-    "title": "Solving Dev / Test conflicts",
-    "description": "In the ideal world, developers and testers act as a single solid team with a common goal. In reality, there is a number of problems that can create a split between these leagues, and even start a tiny cold war.<br/><br/>We'll try to look into some tricky questions.<br/>- How can we detect the split at the earliest stage?<br/>- What can we do to prevent it?<br/>- If we have already faced it, how can we heal it?",
-    "speakers": [25],
+    "title": "Mobile Advertising : How to make ECPM work for you :)",
+    "description": "How to make ECPM work for you. ",
+    "speakers": [23],
     "language": "FR",
     "complexity": "Beginner",
     "presentation": "",
     "video": "",
     "tags": [
-        "Community"
+        "Mobile","Android","Advertising","marketing"
     ]
   },
   {
@@ -458,15 +459,15 @@
   },
   {
     "id": 138,
-    "title": "Tips to succeed in IT career",
-    "description": "How to prepare to the interview? What is important in the resume?<br/><br/>When you start a career that a questions everyone is strugling with. During the session we'll talk about best practices in creating resume, differences in applying for a job in product and outsorce companies.",
+    "title": "Frogans technology",
+    "description": "Présentation de la technologie frogans",
     "speakers": [31],
-    "language": "uk",
+    "language": "FR",
     "complexity": "Beginner",
     "presentation": "",
     "video": "",
     "tags": [
-        "Community"
+        "web","html"
     ]
   },
   {

@@ -48,7 +48,7 @@
         "startTime": "11:25",
         "endTime": "11:45",
         "sessions": [ 
-            [102] 
+            [127] 
         ]
     }, {
         "startTime": "11:45",
@@ -82,7 +82,13 @@
         ]
     }, {
         "startTime": "14:15",
-        "endTime": "15:30",
+        "endTime": "14:35",
+        "sessions": [
+            [134] 
+        ]
+    }, {
+        "startTime": "14:40",
+        "endTime": "15:40",
         "sessions": [
             [113], 
             [124],
@@ -90,13 +96,19 @@
         ]
     } , {
         "startTime": "15:45",
-        "endTime": "18:00",
+        "endTime": "17:15",
         "sessions": [
             [101],
-            [106] 
+            [106], [138] 
         ]
     }, {
-        "startTime": "18:15",
+        "startTime": "17:15",
+        "endTime": "17:45",
+        "sessions": [
+            [1007]
+        ]
+    }, {
+        "startTime": "18:00",
         "endTime": "18:30",
         "sessions": [
             [1003]
