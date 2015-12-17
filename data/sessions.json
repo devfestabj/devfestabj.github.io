@@ -6,13 +6,13 @@
   },
   {
     "id": 1002,
-    "title": "Lunch",
-    "description": "Foooooooood!"
+    "title": "Photo de famille + Pause déjeuner",
+    "description": "Moment restaurationnnnnnnnnnnn!"
   },
   {
     "id": 1003,
-    "title": "Coffee break",
-    "description": "Coffeeeeeee!"
+    "title": "Mot de fin + Cocktail",
+    "description": "Yes!!! we did i!!!!!!!"
   },
   {
     "id": 1004,
@@ -30,7 +30,7 @@
   },
   {
     "id": 1006,
-    "title": "Afterparty & Networking",
+    "title": "Afterparty & Résautage",
     "description": "Afterpaty is a great time to have some fun and meet new people.<br/><br/><b>Location</b>: Club Arsenal Market, [Pidvalna St 5](http://club.arsenalmarket.lviv.ua/uk/contacts/)<br/><br/>Free shot for all DevFest attendees included.<br/><br/>Don't forget to bring your badge.",
     "track": {
         "title": "Club Arsenal Market"
@@ -47,16 +47,15 @@
   },
   {
     "id": 101,
-    "title": "Material Design on Custom Views",
-    "description": "There are various widgets to create user interfaces in Android Framework. Using these widgets is a starting point but they are not enough to create awesome apps. Fortunately, alternative methods are here to rescue! I mean understanding and extending the View class.<br/><br/>In this presentation, I will give some Custom View examples. Some of them makes impossible things be possible and some of them increase performance.<br/><br/>I will also talk about how to apply Material Design in Custom Views with the support of older platform versions.",
-    "speakers": [1],
+    "title": "Microcontroleurs : Application à la robotique",
+    "description": "Programmer un microcontrolleur pour allumer une LED ,Programmer un robot mobile avec un MICROCONTROLLEUR , Programmer un robot qui évite des obstacles et un robot danseur .",
+    "speakers": [1,2],
     "language": "FR",
-    "complexity": "Beginner",
-    "presentation": "https://speakerdeck.com/gdglviv/said-tahsin-dane-material-design-custom-views",
+    "complexity": "Beginner", 
     "video": "",
     "tags": [
-        "Android",
-        "Material Design"
+        "IoT",
+        "Mobile", "robotique","domotique"
     ]
   },
   {
@@ -117,16 +116,16 @@
   },
   {
     "id": 106,
-    "title": "Using GoLang for building micro-service architecture in Google Cloud Platform",
-    "description": "Building a good cloud-ready application is always a challenge. Especially when you decide to use micro-service architecture, where you need to take care about orchestration of all components. Google Cloud Platform can help to solve all problems you can face when creating cloud apps. Go language allows to create small isolated components that can solve only one problem, but solve it perfectly. Combination of these two, Go language and GCP, brings excellent mix that makes development of real cloud application easy as piece of cake!",
-    "speakers": [7],
+    "title": "Functional Programming on Android with Kotlin",
+    "description": "Presentation de la programmation fonctionnel et du langage kotlin. Avec les participants nous developperons une application Android avec Kotlin",
+    "speakers": [28],
     "language": "FR",
     "complexity": "Beginner",
     "presentation": "",
     "video": "",
     "tags": [
-        "Cloud",
-        "Go Lang"
+        "Kotlin",
+        "android","mobile","programmation fonctionelle"
     ]
   },
   {
@@ -216,16 +215,16 @@
   },
   {
     "id": 113,
-    "title": "Material Design. Custom Branding",
-    "description": "1. Material Design Magic <br/>2. Work with colours, typography and custom branding <br/>3. Frameworks for MD Style <br/>4. Issues, tricks and Best cases.",
-    "speakers": [12],
-    "language": "uk",
+    "title": "Build extraordinary Apps with Firebase",
+    "description": "Créer des applications Web et mobiles qui stockent et synchronisent les données en temps réel avec Firebase.Ceci en mode connecté et déconnecté avec une reprise automatique de la synchronisation.",
+    "speakers": [23],
+    "language": "FR",
     "complexity": "Intermediate",
     "presentation": "",
     "video": "",
     "tags": [
         "Android",
-        "Material Design"
+        "Firebase"
     ]
   },
   {
@@ -271,29 +270,29 @@
   },
   {
     "id": 117,
-    "title": "Bluetooth Low Energy and iBeacon development for Android",
-    "description": "iBeacon is a new technology created by Apple. iBeacon uses a Bluetooth low energy signal, which Android 4.3+ devices can detect. Some fairly significant improvements were announced at Google I/O 2014 for improved BLE support in Android Lollipop. We will discuss different implementations for devices prior to 5.0, and for 5.0 and higher.  During our talk you will learn how to implement background beacon scanning, how to improve battery life (and how to choose between fast beacon detection and longer battery life). Also we'll discuss, on how to turn your android device into multiple iBeacon transmitters. Allowing a single Android device to act as multiple iBeacons opens up a huge number of interesting possibilities.",
-    "speakers": [16],
+    "title": "Digital Marketing 101 : Adwords/Adsense",
+    "description": "Session 'awareness' à titre informatif sur les possibilités de Adwords pour les professionnels qui souhaitent se lancer dans le digital marketing, aussi tous ceux qui veulent ajouter une nouvelle palette de compétences; et sur les possibilités de Adsense pour les créateurs de contenu YouTube, Blogger ou autre site web. ",
+    "speakers": [18],
     "language": "FR",
     "complexity": "Intermediate",
     "presentation": "",
     "video": "",
     "tags": [
-        "Android",
-        "BLE"
+        "Adwords",
+        "Adsense"
     ]
   },
   {
     "id": 118,
-    "title": "Students & Google: how not to vanish in the crowd",
-    "description": "Most students believe that getting a job at Google is some kind of 'Mission Impossible'. Fortunately, you don't need superpower for this. In her talk Anna will tell you about the opportunities for students at Google and will share some tips on how to apply, keep calm and succeed.",
+    "title": "Entrepreneuriat et Développeurs Android Africain",
+    "description": "Entrepreneuriat et Développeurs Android Africain est un thème qui m'a été inspiré en observant l'écosystème des développeurs Android africain en général et Ivoirien en particulier. Mon constat est que nous avons des compétences,mais nous sommes mal canalisés. Dans ce thème, je parlerai d'entreprenariat, couplet caractéristiques développeurs puis une léçon à suivre.",
     "speakers": [17],
-    "language": "uk",
+    "language": "FR",
     "complexity": "Beginner",
     "presentation": "",
     "video": "",
     "tags": [
-        "Community"
+        "entrepreneuriat"
     ]
   },
   {
@@ -368,16 +367,15 @@
   },
   {
     "id": 124,
-    "title": "Build Your Thing In a Weekend with AngularJS 2.0",
-    "description": "Have you ever had and idea that you abandon after some time? You are not alone. That’s true for most of the software projects. The reasons might vary, lack of time, scope of the thing you want to build, or simply losing interest after some time. If only there was some easier way to build your thing with less hassle. Actually there is. In this talk we will discuss how to do that with AngularJS 2.0. We will go through some of the basics and talk about how it might help you implement your idea and what it has to offer.",
-    "speakers": [22],
+    "title": "Applications mobiles avec AngularJs et Ionic",
+    "description": "Dans cette session vous saurez comment developper une application mobile avec les technologie web utilisant le javascript. Nous verrons aussi comment a partir de ces technologie on peut avoir une meme experience utilisateur qu'avec les applications developpez de manière native",
+    "speakers": [19],
     "language": "FR",
-    "complexity": "Beginner",
-    "presentation": "https://speakerdeck.com/gdglviv/semih-yagcioglu-build-your-thing-in-a-weekend-with-angularjs-2-dot-0",
+    "complexity": "Beginner", 
     "video": "",
     "tags": [
         "Web",
-        "AngularJS"
+        "AngularJS","ionic"
     ]
   },
   {
