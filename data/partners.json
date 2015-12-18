@@ -42,5 +42,9 @@
         "name": "Université cerco",
         "url": "http://www.groupecerco.com/bj/",
         "logoUrl": "../images/partners/cerco.jpg"
+    },{
+        "name": "Veone",
+        "url": "http://www.veone.net/fr/",
+        "logoUrl": "../images/partners/veone.png"
     }]
 }]
