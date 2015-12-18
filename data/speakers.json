@@ -50,7 +50,7 @@
     "country": "Côte d'Ivoire",
     "photoUrl": "../../images/people/komi_serge.jpg",
     "bio": "",
-    "tags": ["Web", "Dart"],
+    "tags": ["Web", "AngularJS","spring-boot","java"],
     "badges": [ {
         "name": "GDG",
         "description": "Google Developers Group MIAGE GI"
