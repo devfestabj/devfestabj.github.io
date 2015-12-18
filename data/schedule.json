@@ -12,72 +12,72 @@
     }],
     "timeslots": [{
         "startTime": "08:30",
-        "endTime": "9:30",
+        "endTime": "9:10",
         "sessions": [
             [1001]
         ]
     }, {
-        "startTime": "09:30",
-        "endTime": "9:45",
+        "startTime": "09:10",
+        "endTime": "9:25",
         "sessions": [
             [1005]
         ]
     }, {
-        "startTime": "9:45",
-        "endTime": "10:15",
+        "startTime": "09:25",
+        "endTime": "09:55",
         "sessions": [
             [125]
         ]
     },{
-        "startTime": "10:15",
-        "endTime": "10:45",
+        "startTime": "09:55",
+        "endTime": "10:15",
         "sessions": [
             [133]
         ]
     },{
+        "startTime": "10:15",
+        "endTime": "10:25",
+        "sessions": [
+            [112]
+        ]
+    }, {
+        "startTime": "10:25",
+        "endTime": "10:45",
+        "sessions": [
+            [109]
+        ]
+    }, {
         "startTime": "10:45",
         "endTime": "11:05",
         "sessions": [
-            [112]
+            [116]
         ]
     }, {
         "startTime": "11:05",
         "endTime": "11:25",
         "sessions": [
-            [109]
+            [127]
         ]
     }, {
         "startTime": "11:25",
         "endTime": "11:45",
         "sessions": [
-            [116]
-        ]
-    }, {
-        "startTime": "11:45",
-        "endTime": "12:05",
-        "sessions": [
-            [127]
-        ]
-    }, {
-        "startTime": "12:05",
-        "endTime": "12:25",
-        "sessions": [
             [118]
         ]
     }, {
-        "startTime": "12:25",
-        "endTime": "12:55",
+        "startTime": "11:45",
+        "endTime": "12:15",
         "sessions": [
             [115]
         ]
     }, {
-        "startTime": "13:00",
-        "endTime": "13:20",
+        "startTime": "12:20",
+        "endTime": "12:45",
         "sessions": [
             [117]
         ]
     }, {
-        "startTime": "13:20",
+        "startTime": "12:50",
         "endTime": "14:20",
         "sessions": [
             [1002]
